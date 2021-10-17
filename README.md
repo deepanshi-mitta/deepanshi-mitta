@@ -9,7 +9,7 @@
 
 - 😄 Pronouns **She/Her**
 
-- 📫 How to reach me **deepanshimittal6@mail.com**
+- 📫 How to reach me **deepanshimittal6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
