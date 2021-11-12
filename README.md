@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshi-mitta&show_icons=true&locale=en" alt="deepanshi-mitta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshi-mitta&" alt="deepanshi-mitta" /></p>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Deepanshi Mittal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshi-mitta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <a href="https://github.com/deepanshi-mitta/github-readme-activity-graph"><img alt="Deepanshi Mittal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepanshi-mitta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
